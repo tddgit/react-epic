@@ -246,7 +246,7 @@
 		"apollo-server": "^2.21.1",
 		"awilix": "^4.3.3",
 		"awilix-express": "^4.0.0",
-		"axios": "^0.21.1",
+		"axios": "^0.30.2",
 		"babel-plugin-emotion": "^11.0.0",
 		"bcrypt": "^5.0.1",
 		"bcryptjs": "^2.4.3",
