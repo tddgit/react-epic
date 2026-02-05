@@ -204,8 +204,8 @@
 		"xml-loader": "^1.2.1"
 	},
 	"dependencies": {
-		"@angular-devkit/build-angular": "~0.1102.0",
-		"@angular/cli": "~11.2.0",
+		"@angular-devkit/build-angular": "~21.1.2",
+		"@angular/cli": "~21.1.2",
 		"@angular/common": "^11.2.4",
 		"@angular/compiler": "^11.2.4",
 		"@angular/compiler-cli": "~11.2.0",
@@ -327,7 +327,7 @@
 		"passport-localapikey-update": "^0.6.0",
 		"passport-twitter": "^1.0.4",
 		"pg": "^8.5.1",
-		"pm2": "^4.5.5",
+		"pm2": "^6.0.14",
 		"polished": "^4.1.1",
 		"protractor": "~7.0.0",
 		"rambda": "^6.5.3",
@@ -342,7 +342,7 @@
 		"react-redux": "^7.2.2",
 		"react-router": "^5.2.0",
 		"react-router-dom": "^5.2.0",
-		"react-scripts": "^4.0.3",
+		"react-scripts": "^5.0.1",
 		"react-select": "^4.2.1",
 		"react-slick": "^0.28.1",
 		"react-spinners": "^0.10.6",
